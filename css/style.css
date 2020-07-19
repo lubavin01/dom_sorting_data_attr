@@ -1,0 +1,11 @@
+table {
+  border-collapse: separate;
+}
+
+th {
+  border: 1px solid lightseagreen;
+}
+
+td {
+  border: 1px solid grey;
+}
